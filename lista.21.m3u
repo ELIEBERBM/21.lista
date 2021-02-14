@@ -2,6 +2,13 @@
 #EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS HD" tvg-logo="http://tvsimg.esy.es/img/globonews.png" group-title="tv • NOTÍCIAS",GLOBO NEWS HD
 http://rec3.distv.net:8080/MICHELLE_DANTAS/1234/232
 
+#EXTINF:-1 group-title="tv • DOCUMENTÁRIOS" tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c9357442f5e3629b183b.png",DISCOVERY
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=j1ehRqVQ-r-cmbuN6sHnWw&3U1G7qaTxrPbalZnEx=1613328045
+
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS HD" tvg-logo="http://tvsimg.esy.es/img/globonews.png" group-title="tv • NOTÍCIAS",GLOBO NEWS HD
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/globonews.m3u8?mu3zAQc9HC3GbwJq=7QPpJMUhlMcgRMg_fBo8hQ&3U1G7qaTxrPbalZnEx=1613327935
+
+
 #EXTINF:-1 tvg-id="GloboNews" tvg-name="GLOBO NEWS HD" tvg-logo="http://tvsimg.esy.es/img/globonews.png" group-title="tv • NOTÍCIAS",GLOBO NEWS link tv
 https://live-as-10-17.video.globo.com/d/nl/s/hls-gnews24ha/hls-gnews24ha_4783/playlist.m3u8
 
